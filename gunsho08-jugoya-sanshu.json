@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jugoya-sanshu-utaawase",
  "yomi": "じゅうごやさんしゅうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "永禄6年（1563）8月",
+  "author": "判者 日野一位大納言",
+  "desc": "八月十五夜に月前松風・湖上月などの三題を詠んだ歌合。中納言・法印兼智・権大僧都兼俊ら僧侶を中心とする作者が詠み、判者の日野一位大納言は文亀三年の歌合や六百番歌合の判を引いて論じる。"
+ },
  "editions": [
   {
    "pid": "1879502",
